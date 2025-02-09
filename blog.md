@@ -82,7 +82,7 @@ This project reinforced my understanding of:
 ---
 
 ## **Try It Yourself**
-If you’re interested in exploring the dataset or replicating this analysis, check out the project on my [GitHub repository](https://github.com/yourusername/Multivariate-Data-Analysis-Exercises). Feel free to reach out if you have any questions or suggestions!
+If you’re interested in exploring the dataset or replicating this analysis, check out the project on my [GitHub repository](https://(https://github.com/boakyejeff/Multivariate-Data-Analysis-Project)). Feel free to reach out if you have any questions or suggestions!
 
 ---
 
