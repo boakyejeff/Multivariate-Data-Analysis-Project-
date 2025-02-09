@@ -88,4 +88,3 @@ If you’re interested in exploring the dataset or replicating this analysis, ch
 
 ---
 
-By sharing your project as a blog post, you not only demonstrate your technical skills but also your ability to communicate complex ideas clearly. This can make a strong impression on potential employers or collaborators. Good luck!
