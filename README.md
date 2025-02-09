@@ -18,3 +18,6 @@ This project analyzes **housing data from Boston**, applying **multivariate stat
 - `RM` (average rooms per dwelling) has the **strongest positive correlation** with house prices.  
 - `LSTAT` (percentage of lower status population) and `TAX` negatively impact `MEDV`.  
 - A **full regression model** explains **77.8% of the variance**, while a **feature-selected model** achieves **72.9%** accuracy.  
+
+## Blog Post
+For a detailed walkthrough of this project, check out my blog post: [Multivariate Data Analysis: Boston Housing Dataset](blog.md).
