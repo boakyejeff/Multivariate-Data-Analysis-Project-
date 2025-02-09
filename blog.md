@@ -28,6 +28,7 @@ I started by visualizing the relationships between **MEDV** and other features u
 For example, I plotted **MEDV** against **RM** (average number of rooms) and **LSTAT** (percentage of lower-status population).
 
 ![Significant Scatter Plots](images/significant_scatter_plots.png)
+![Significant Scatter Plots](https://raw.githubusercontent.com/boakyejeff/Multivariate-Data-Analysis-Project-/images/significant_scatter_plots.png)
 
 From the plot, I observed a **strong positive correlation** between **RM** and **MEDV**: homes with more rooms tend to have higher values. Conversely, **LSTAT** showed a **strong negative correlation** with **MEDV**: neighborhoods with a higher percentage of lower-status populations tend to have lower home values.
 
@@ -37,6 +38,7 @@ From the plot, I observed a **strong positive correlation** between **RM** and *
 To quantify these relationships, I calculated the correlation matrix and visualized it.
 
 ![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](https://raw.githubusercontent.com/boakyejeff/Multivariate-Data-Analysis-Project-/images/correlation_matrix.png)
 
 The analysis revealed that **RM** and **LSTAT** had the strongest correlations with **MEDV** (0.70 and -0.74, respectively). Other features like **PTRATIO** (pupil-teacher ratio) and **TAX** (property tax rate) also showed moderate correlations.
 
@@ -55,6 +57,7 @@ This simplified model achieved an **R-squared value of 0.7297**, slightly lower 
 By reducing the number of features, this model is less likely to overfit and may perform better on unseen data.
 
 ![Scatter Plots](images/scatter_plots.png)
+![Scatter Plots](https://raw.githubusercontent.com/boakyejeff/Multivariate-Data-Analysis-Project-/images/scatter_plots.png)
 
 ---
 
