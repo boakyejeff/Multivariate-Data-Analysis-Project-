@@ -56,7 +56,7 @@ This simplified model achieved an **R-squared value of 0.7297**, slightly lower 
 By reducing the number of features, this model is less likely to overfit and may perform better on unseen data.
 
 ![Scatter Plots](scatter_plots.png)
-
+![Scatter Plots](https://github.com/boakyejeff/Multivariate-Data-Analysis-Project-/blob/images/scatter_plots.png?raw=true)
 ---
 
 ## **Key Findings**
