@@ -20,4 +20,4 @@ This project analyzes **housing data from Boston**, applying **multivariate stat
 - A **full regression model** explains **77.8% of the variance**, while a **feature-selected model** achieves **72.9%** accuracy.  
 
 ## Blog Post
-For a detailed walkthrough of this project, check out my blog post: [Multivariate Data Analysis: Boston Housing Dataset](blog.md).
+For a detailed walkthrough of this project, check out my blog post: [Multivariate Data Analysis: Boston Housing Dataset](blog.md). [Multivariate-Data-Analysis-Project-/blob/main/(blog.md)]
