@@ -37,8 +37,8 @@ From the plot, I observed a **strong positive correlation** between **RM** and *
 ### **3. Correlation Analysis**
 To quantify these relationships, I calculated the correlation matrix and visualized it.
 
-![Correlation Matrix](correlation_matrix.png)
-
+![Correlation Matrix](correlation_matrix.png)https://github.com/boakyejeff/Multivariate-Data-Analysis-Project-/blob/images/correlation_matrix.png
+![Correlation Matrix](https://github.com/boakyejeff/Multivariate-Data-Analysis-Project-/blob/main/images/correlation_matrix.png?raw=true)
 The analysis revealed that **RM** and **LSTAT** had the strongest correlations with **MEDV** (0.70 and -0.74, respectively). Other features like **PTRATIO** (pupil-teacher ratio) and **TAX** (property tax rate) also showed moderate correlations.
 
 ---
