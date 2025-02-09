@@ -29,6 +29,7 @@ For example, I plotted **MEDV** against **RM** (average number of rooms) and **L
 
 ![Significant Scatter Plots](significant_scatter_plots.png)
 
+
 From the plot, I observed a **strong positive correlation** between **RM** and **MEDV**: homes with more rooms tend to have higher values. Conversely, **LSTAT** showed a **strong negative correlation** with **MEDV**: neighborhoods with a higher percentage of lower-status populations tend to have lower home values.
 
 ---
